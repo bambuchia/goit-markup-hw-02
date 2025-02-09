@@ -154,7 +154,7 @@ color: #404bbf;
     background-color: #f4f4fd;
 }
 
-.contacts-main-title {background-color: #f4f4fd;
+.contacts-main-title {background-color: #FFFFFF;
     font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
@@ -173,7 +173,7 @@ font-weight: 500;
     color: #2e2f42;
 }
 
-.contacts-list-item {background-color: #f4f4fd}
+.contacts-list-item {background-color: #FFFFFF}
 
 .contacts-item-title {
     background-color: #f4f4fd;
