@@ -2,7 +2,6 @@ body {
     font-family: "Roboto", sans-serif;
     second-family: "Raleway", sans-serif;
     background: #fff;
-    color: #2e2f42;
     }
 
 a {
@@ -28,17 +27,14 @@ button {
 font-weight: 700;
     font-size: 18px;
     line-height: 1.16;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #2e2f42;}
+    color: #2e2f42;
+}
 
 .logo-style {font-family: "Raleway", sans-serif;
 font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;}
+    color: #4d5ae5;
+}
 
 .nav-list-header {}
 
@@ -46,9 +42,8 @@ font-weight: 700;
 
 .item-nav-link {font-weight: 500;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #2e2f42;
+}
 .item-nav-link:hover,
 .item-nav-link:focus {
 color: #404bbf;
@@ -66,40 +61,32 @@ color: #404bbf;
 
 .item-address-link {font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;}
+    color: #434455;
+}
     .item-address-link:hover,
-    .item-address-link:focus {color: #404bbf;}
+    .item-address-link:focus {color: #404bbf;
+    }
 
 /* #endaddress header */
 
 /* #studio main */
 
-.studio {background-color: #2e2f42;}
+.studio {background-color: #2e2f42;
+}
 
 .studio-title {font-weight: 700;
     font-size: 56px;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #fff;}
+    color: #fff;
+}
 
-.studio-btn {display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-direction: row;
-    gap: 10px;
-border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+.studio-btn {
     background-color: #4d5ae5;
-color: #fff;}
+color: #fff;
+}
 .studio-btn:hover,
-.studio-btn:focus{box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background-color: #404bbf;}
+.studio-btn:focus{
+    background-color: #404bbf;
+}
 
 /* #endstudio main */
 
@@ -112,15 +99,13 @@ color: #fff;}
 
 .iformation-item-title {font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #2e2f42;
+}
 
 .information-item-text {font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;}
+    color: #434455;
+}
 
 /* #endinformation main */
 
@@ -132,10 +117,8 @@ color: #fff;}
 
 .contacts-main-title {font-weight: 700;
     font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;}
+    color: #2e2f42;
+}
 
 .contacts-list {}
 
@@ -143,17 +126,13 @@ color: #fff;}
 
 .contacts-item-title {font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;}
+    color: #2e2f42;
+}
 
 .contacts-item-text {font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #434455;}
+    color: #434455;
+}
 
 /* #endcontacts main */
 
@@ -163,10 +142,8 @@ color: #fff;}
 
 .portfolio-main-title {font-weight: 700;
     font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;}
+    color: #2e2f42;
+    }
 
 .porfolio-main-list {}
 
@@ -174,15 +151,13 @@ color: #fff;}
 
 .portfolio-item-title {font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;}
+    color: #2e2f42;
+}
 
 .portfolio-item-text {font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;}
+    color: #434455;
+}
 
 /* #endportfolio main */
 
@@ -193,21 +168,16 @@ color: #fff;}
 .logo-footer {font-family: "Raleway", sans-serif;
 font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #f4f4fd;}
+    color: #f4f4fd;
+    }
 
 .logo-style-footer {font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;}
+    color: #4d5ae5;
+}
 
 .footer-text {font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #f4f4fd;}
+    color: #f4f4fd;
+}
 /* #endfooter */
