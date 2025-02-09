@@ -32,7 +32,7 @@ button {
 .logo-header {font-family: "Raleway", sans-serif;
 font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
+    line-height:1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
@@ -41,7 +41,7 @@ font-weight: 700;
 .logo-style {font-family: "Raleway", sans-serif;
 font-weight: 700;
     font-size: 18px;
-    line-height: 1.17;
+    line-height:1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -142,10 +142,10 @@ color: #404bbf;
 /* #contacts main */
 
 .contacts-main {
-    background color: #f4f4fd;
+    background-color: #f4f4fd;
 }
 
-.contacts-main-title {background: #f4f4fd;
+.contacts-main-title {background-color: #f4f4fd;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -153,7 +153,7 @@ color: #404bbf;
     color: #2e2f42;
 }
 
-.contacts-list {background: #f4f4fd;}
+.contacts-list {background-color: #f4f4fd;}
 
 .contacts-list-item {}
 
@@ -177,10 +177,10 @@ color: #404bbf;
 
 /* #portfolio main */
 
-.portfolio-main {background color: #fff;
+.portfolio-main {background-color: #fff;
 }
 
-.portfolio-main-title {background: #f4f4fd;
+.portfolio-main-title {background-color: #f4f4fd;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
