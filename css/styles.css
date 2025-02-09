@@ -66,17 +66,23 @@ color: #404bbf;
 
 /* #address header */
 
-.header-address {}
+.header-address {font-style: normal;
+    color: #434455;
+}
 
-.header-list-address {}
+.header-list-address {font-style: normal;
+    color: #434455;
+}
 
-.address-header-item {}
+.address-header-item {font-style: normal;
+    color: #434455;
+}
 
 .item-address-link {font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    font-style: normal
+    font-style: normal;
     color: #434455;
 }
     .item-address-link:hover,
