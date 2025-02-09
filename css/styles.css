@@ -159,11 +159,18 @@ color: #404bbf;
     color: #2e2f42;
 }
 
-.contacts-list {background-color: #f4f4fd;}
+.contacts-list {background-color: #f4f4fd;
+font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
 
-.contacts-list-item {}
+.contacts-list-item {background-color: #f4f4fd}
 
-.contacts-item-title {
+.contacts-item-title {background-color: #f4f4fd
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -172,7 +179,8 @@ color: #404bbf;
         color: #2e2f42;
 }
 
-.contacts-item-text {font-weight: 400;
+.contacts-item-text {background-color: #f4f4fd
+    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
