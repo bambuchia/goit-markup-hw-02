@@ -1,8 +1,7 @@
 body {
-    font-family: "Roboto", sans-serif;
-    second-family: "Raleway", sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
+    font-family: "Roboto", sans-serif, "Raleway";
+        color: #434455;
+        background-color: #FFFFFF;
     }
 
 a {
@@ -104,12 +103,14 @@ color: #404bbf;
     color: #fff;
 }
 
-.studio-btn {background-color: #4d5ae5;
-    font-weight: 500
-    line-height: 1.5 
-    letter-spacing: 0.04em
-    color: #fff;
-}
+.studio-btn {
+            background-color: #4d5ae5;
+            font-weight: 500;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+            color: #fff;
+        }
+
 .studio-btn:hover, 
 .studio-btn:focus{
     background-color: #404bbf;
@@ -126,7 +127,7 @@ color: #404bbf;
 
 .information-list-item {}
 
-.iformation-item-title {font-weight: 500;
+.information-item-title {font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -170,16 +171,18 @@ font-weight: 500;
 
 .contacts-list-item {background-color: #f4f4fd}
 
-.contacts-item-title {background-color: #f4f4fd
+.contacts-item-title {
+    background-color: #f4f4fd;
     font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
 
-.contacts-item-text {background-color: #f4f4fd
+.contacts-item-text {
+    background-color: #f4f4fd;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
